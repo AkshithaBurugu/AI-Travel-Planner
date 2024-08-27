@@ -5,7 +5,7 @@ from datetime import date
 
 
 
-st.title("Pradeep's AI Travel Planner")
+st.title("AI Travel Planner")
 st.subheader('Plan your next trip with AI')
 
 
